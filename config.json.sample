@@ -1,0 +1,14 @@
+{
+  "notificationApi": {
+    "clientId": "",
+    "clientSecret": ""
+  },
+  "ethereum": {
+    "key": ""
+  },
+  "user": {
+    "id": "",
+    "email": "",
+    "number": ""
+  }
+}
